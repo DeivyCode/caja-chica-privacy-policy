@@ -1,3 +1,7 @@
+layout: page
+title: "Private Policy"
+permalink: /private-policy
+
 # PRIVACY NOTICE
 
 Last updated August 11, 2022
