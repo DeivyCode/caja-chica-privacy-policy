@@ -1,6 +1,6 @@
 layout: page
 title: "Private Policy"
-permalink: /private-policy
+permalink: docs/privacy_policy
 
 # PRIVACY NOTICE
 
